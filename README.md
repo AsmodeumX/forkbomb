@@ -1,2 +1,2 @@
-# forkbomb
+# Fork Bomb
 Fork bombs
